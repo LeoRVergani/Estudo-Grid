@@ -1,0 +1,23 @@
+body {
+    font-family: monospace;
+    color: #333;
+    margin: 0px;
+    padding-bottom: 60px;
+}
+
+.item {
+    margin: 5px;
+    background: goldenrod;
+    text-align: 1.5em;
+
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+}
+
+.grid {
+    display: grid;
+}
