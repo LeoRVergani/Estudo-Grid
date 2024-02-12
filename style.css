@@ -33,3 +33,7 @@ body {
 .grid-columns {
     grid-template-columns: 1fr 1fr;
 }
+
+.grid-rows {
+    grid-template-rows: 50px 50px 50px;
+}
