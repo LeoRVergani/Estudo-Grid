@@ -29,3 +29,7 @@ body {
 .grid {
     display: grid;
 }
+
+.grid-columns {
+    grid-template-columns: 1fr 1fr;
+}
